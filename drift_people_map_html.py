@@ -2,6 +2,7 @@
 """
 Created on  Dec 5 12:33 2017
 @author: xiaoxu
+To run this program,you need to input this file: 'python sheets-c128999af063.json'
 """
 import gspread # pip install gspread before running this program
 from geopy.geocoders import Nominatim  # pip install geopy before running this program
